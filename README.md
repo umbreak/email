@@ -1,8 +1,10 @@
 # Email management
-All together provides interface and implementation for sending emails and receiving events (webhooks) from the sent emails.
+Provides interface and implementation for sending emails and receiving events (webhooks) from the sent emails.
 The existing implementations are for the following providers:
 * Mailjet
 * MailGun
+
+Before running the tests, please add the correct credentials to the file `Constants.java`from the project `email-factory`.
 
 To use it, a factory is provided:
 ```java
