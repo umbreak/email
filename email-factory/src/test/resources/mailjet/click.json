@@ -1,0 +1,15 @@
+{
+  "event": "click",
+  "time": 1463143308,
+  "MessageID": 18295923420823304,
+  "email": "didac.montero@clipnow.com",
+  "mj_campaign_id": 4884330094,
+  "mj_contact_id": 3,
+  "customcampaign": "",
+  "url": "http:\/\/google.com",
+  "ip": "91.64.102.117",
+  "geo": "DE",
+  "agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/50.0.2661.94 Safari\/537.36",
+  "CustomID": "dd6eb9d0-bd54-4edb-8b20-9a879e57529d",
+  "Payload": ""
+}

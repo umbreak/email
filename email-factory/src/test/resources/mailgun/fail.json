@@ -1,0 +1,37 @@
+{
+  "event": "failed",
+  "timestamp": 1377198389.769129,
+  "severity": "permanent",
+  "tags": [],
+  "envelope": {
+    "transport": "smtp",
+    "sender": "postmaster@samples.mailgun.org",
+    "sending-ip": "184.173.153.199"
+  },
+  "delivery-status": {
+    "message": "Relay Not Permitted",
+    "code": 550,
+    "description": null
+  },
+  "campaigns": [],
+  "reason": "bounce",
+  "user-variables": {},
+  "flags": {
+    "is-authenticated": true,
+    "is-test-mode": false
+  },
+  "message": {
+    "headers": {
+      "to": "recipient@example.com",
+      "message-id": "dd6eb9d0-bd54-4edb-8b20-9a879e57529d",
+      "from": "John Doe <sender@example.com>",
+      "subject": "Test Subject"
+    },
+    "attachments": [],
+    "recipients": [
+      "didac.montero@clipnow.com"
+    ],
+    "size": 557
+  },
+  "recipient": "didac.montero@clipnow.com"
+}

@@ -1,0 +1,27 @@
+{
+  "event": "clicked",
+  "timestamp": 1377075564.094891,
+  "recipient": "didac.montero@clipnow.com",
+  "geolocation": {
+    "country": "US",
+    "region": "TX",
+    "city": "Austin"
+  },
+  "tags": [],
+  "url": "http://google.com",
+  "ip": "127.0.0.1",
+  "campaigns": [],
+  "user-variables": {},
+  "client-info": {
+    "client-type": "browser",
+    "client-os": "Linux",
+    "device-type": "desktop",
+    "client-name": "Chromium",
+    "user-agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36"
+  },
+  "message": {
+    "headers": {
+      "message-id": "dd6eb9d0-bd54-4edb-8b20-9a879e57529d"
+    }
+  }
+}

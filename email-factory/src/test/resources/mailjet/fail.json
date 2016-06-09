@@ -1,0 +1,13 @@
+{
+  "customcampaign": "12",
+  "time": 1463476647,
+  "event": "bounce",
+  "mj_campaign_id": "",
+  "mj_contact_id": 3,
+  "error_related_to": "no info",
+  "error": "permanent: bounce",
+  "hard_bounce": "true",
+  "email": "didac.montero@clipnow.com",
+  "CustomID": "dd6eb9d0-bd54-4edb-8b20-9a879e57529d",
+  "blocked": "false"
+}

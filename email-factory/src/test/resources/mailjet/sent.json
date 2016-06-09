@@ -1,0 +1,13 @@
+[{
+  "event": "sent",
+  "time": 1463143300,
+  "MessageID": 18295923420823304,
+  "email": "didac.montero@clipnow.com",
+  "mj_campaign_id": 4884330094,
+  "mj_contact_id": 3,
+  "customcampaign": "",
+  "mj_message_id": "18295923420823304",
+  "smtp_reply": "sent (250 OK id=1b1CPT-0008Qb-B2)",
+  "CustomID": "dd6eb9d0-bd54-4edb-8b20-9a879e57529d",
+  "Payload": ""
+}]
